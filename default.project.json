@@ -1,5 +1,5 @@
 {
-	"name": "roblox-ts-game",
+	"name": "roact-rodux-counter",
 	"globIgnorePaths": [
 		"**/package.json",
 		"**/tsconfig.json"
